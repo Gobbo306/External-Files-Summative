@@ -4,8 +4,18 @@
 #Tuesday October 22 2019
 #------------------------------------------------
 
-#-------------------Imports----------------------
+#------------------Benefits & Specific Uses----------------------
 
+#The benefits of using external files are quite extensive. It is great for operating games with
+#save games, it can be used to clean up your code, in terms of removing the large lists from
+#the program itself and moving into the external files, and it can also give the player or user
+#a easier way to view the contents of what they have, instead of having a list in the program,
+#they can just choose and option to call on all the contents of the appropriate file.
+
+#They are a fair amount of uses for External files, from making save games, to running lists,
+#You can control your gamesfrom outside of the game, instead of having those long winded,
+#print this print that, to explain part of a game or a story, you can just write it all into a part of the,
+#file, and print that, boom, so many less program lines used.
 
 #--------------------Functions-------------------
 
